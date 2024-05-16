@@ -88,8 +88,8 @@ internal;
 #       listen 80;
 #       listen [::]:80;
 #
-#       server_name example.com;
+#       server_name 100.26.160.237;
 #
 #       root /var/www/example.com;
 #       index index.html;
-#
+#}
